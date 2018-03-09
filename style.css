@@ -1,0 +1,332 @@
+body {
+	font-family: minecraftFont;
+	font-size: 10px/16px;
+	color: #333333;
+	background-image: url("images/minecraft-shaders_game-wallpapers.jpg");
+	background-color: #034c55;
+    background-repeat: no-repeat;
+    height: 1600px;
+	margin: 0px;
+	border: 0px;
+	padding: 0em;
+
+}
+
+@font-face {
+    font-family: minecraftFont;
+	src: url(font/minecrafter/Minecrafter.Reg.ttf);
+}	
+
+p {
+	line-height: 1.5454;
+	font-size: 11px;
+}
+
+.page-wrapper {
+	background: url(images/blogmcnet.png) no-repeat scroll left top;
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+	height: 436px;
+	width: 1024px;
+	left: 0px;
+	top: 0px;
+	right: 0px;
+	bottom: 0px;
+}
+.intro {
+    margin-top: 85px; 
+	margin-left: 172px; 
+	}
+
+
+header h1 {
+	background: url(images/csszengarden.png) no-repeat left top;
+	width: 500px; 
+	height: 100px; 
+	text-indent: 400%;
+	white-space: nowrap;
+	overflow: hidden;
+
+	}
+header h2 {
+	background: url(images/thebeautycssdesign.png) no-repeat left top;
+	width: 300px; 
+	height: 100px; 
+	text-indent: 600%;
+	white-space: nowrap;
+	overflow: hidden;
+	}
+.summary {
+	width: 300px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	}
+.summary p {
+	color: #FFFFFF;
+	}
+.preamble {
+	color: #34344c;
+	margin: 0px;
+	width: 490px;
+	bottom: 0px;
+	}
+.preamble  h3 {
+	background: url(images/header1.png) no-repeat left top;
+	border: 0px;
+	height: 40px;
+	width: 600px;
+	visibility: visible;
+	position: static;
+	margin: 0px;
+	padding: 0px 0px 3px;
+
+	text-indent: 200%;
+	white-space: nowrap;
+	overflow: hidden;
+	}
+.preamble p {
+	position: relative;
+	left: 27px;
+	margin: 0px 0px 5px;
+	padding: 0px;
+	}
+.explanation {
+	color: #d1d1e0;
+	margin: 0px;
+	width: 490px;
+	}
+.explanation  h3 {
+	background: url(images/header2.png) no-repeat left top;
+	border: 0px;
+	height: 40px;
+	width: 600px;
+	visibility: visible;
+	position: static;
+	margin: 0px;
+    margin-top: 85px; 
+	margin-left: 172px; 
+	padding: 0px 0px 3px;
+
+	text-indent: 200%;
+	white-space: nowrap;
+	overflow: hidden;
+	}
+.explanation p {
+	position: relative;
+	left: 197px;
+	margin: 0 0 5px;
+	padding: 0px;
+	right: 732px;
+	}
+a:link {
+	font-weight: bold;
+	color: #99CCFF;
+	text-decoration: none;
+	}
+a:visited {
+	font-weight: bold;
+	color: #99CCFF;
+	text-decoration: none;
+	}
+a:hover {
+	font-weight: bold;
+	color: #99CCFF;
+	text-decoration: underline;
+	}
+a:active {
+	font-weight: bold;
+	color: #99CCFF;
+	}
+p {
+	font-size: 8pt;
+	line-height: 14pt;
+	margin: 0px;
+	padding: 3px 0px;
+	}
+.participation  {
+	color: #d1d1e0;
+	margin: 0px;
+	width: 490px;
+	}
+.participation h3 {
+	background: url(images/header3.png) no-repeat left top;
+	border: 0px;
+	height: 40px;
+	width: 600px;
+	visibility: visible;
+	position: static;
+	margin: 0px;
+	margin-top: 85px; 
+	margin-left: 172px; 
+	padding: 0px 0px 3px;
+
+	text-indent: 200%;
+	white-space: nowrap;
+	overflow: hidden;
+	}
+.participation p {
+	position: relative;
+	left: 200px;
+	margin: 0 0 5px;
+	padding: 0px;
+	right: 745px;
+	}
+.participation a:link, .participation a:visited {
+	color: #316DBD;
+	}
+.benefits {
+	color: #d1d1e0;
+	margin: 0px;
+	width: 490px;
+	}
+.benefits h3 {
+	background: url(images/header4.png) no-repeat left top;
+	border: 0px;
+	height: 40px;
+	width: 600px;
+	visibility: visible;
+	position: static;
+	margin: 0px;
+	margin-top: 85px; 
+	margin-left: 172px; 
+	padding: 0px 0px 3px;
+
+	text-indent: 200%;
+	white-space: nowrap;
+	overflow: hidden;
+	}
+.benefits p {
+	position: relative;
+	left: 200px;
+	margin: 0 0 5px;
+	padding: 0px;
+	right: 745px;
+	}
+.requirements  {
+	color: #d1d1e0;
+	margin: 0px;
+	width: 490px;
+	}
+.requirements h3 {
+	background: url(images/header5.png) no-repeat left top;
+	border: 0px;
+	height: 40px;
+	width: 600px;
+	visibility: visible;
+	position: static;
+	margin: 0px;
+	margin-top: 85px; 
+	margin-left: 172px; 
+	padding: 0px 0px 3px;
+
+	text-indent: 200%;
+	white-space: nowrap;
+	overflow: hidden;
+	}
+.requirements p {
+	position: relative;
+	left: 200px;
+	margin: 0 0 5px;
+	padding: 0px;
+	right: 745px;
+	}
+.requirements a:link, .requirements a:visited {
+	color: #316DBD;
+	}
+footer {
+	position: relative;
+	left: 200px;
+	margin: 0px;
+	padding: 10px 10px 10px 0px;
+	line-height: 15px;
+	font-size: 9px;
+	right: 745px;
+	}
+footer a:link, footer a:visited {
+	color: #316DBD;
+	}
+.sidebar {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	height: 0px;
+	padding: 0px;
+	width: 0px;
+	margin: 0px;
+	}
+.sidebar .wrapper {
+	font-family: minecraftFont;
+	font-size: 10px;
+	padding: 0px;
+	margin-top: 340px; 
+	width: 133px;
+	height: 0px;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+	position: absolute;
+	}
+.sidebar ul {
+	margin: 0px;
+	padding: 0px;
+	}
+.sidebar li {
+	line-height: 2.5ex;
+	list-style-type: none;
+	display: block;
+	padding-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 0px;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #C5D2E6;
+	border-right-color: #C5D2E6;
+	border-bottom-color: #C5D2E6;
+	border-left-color: #C5D2E6;
+	padding-left: 15px;
+	padding-bottom: 5px;
+	padding-right: 12px;
+	color: #99CCFF;
+	}
+.sidebar li a:link {
+	color: #FFFFFF;
+	font-weight: bold;
+	background-position: 5px;
+	}
+.sidebar li a:visited {
+	color: #99CCFF;
+	font-weight: bold;
+	}
+.sidebar h3.select { 
+	background: transparent url(images/selectdesign.png) no-repeat top left; 
+	margin: 0px 0px 5px 7px; 
+	width: 95px; 
+	height: 7px; 
+
+	text-indent: 200%;
+	white-space: nowrap;
+	overflow: hidden;
+	}
+.sidebar h3.archives { 
+	background: transparent url(images/archeives.png) no-repeat top left; 
+	margin: 30px 0px 5px 7px; 
+	width: 95px; 
+	height: 7px; 
+
+	text-indent: 200%;
+	white-space: nowrap;
+	overflow: hidden;
+	}
+.sidebar h3.resources { 
+	background: transparent url(images/resources.png) no-repeat top left; 
+	margin: 30px 0px 5px 7px; 
+	width: 95px; 
+	height: 7px; 
+
+	text-indent: 200%;
+	white-space: nowrap;
+	overflow: hidden;
+	}
+
